@@ -360,6 +360,7 @@ Table of Contents
   - [CS 229r - Algorithms for Big Data, Harvard University](http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html) ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf))
   - [Algorithms for Big Data - IIT Madras](https://nptel.ac.in/courses/106106142/)
   - [Python Data Science with the TCLab](https://github.com/APMonitor/data_science) ([YouTube](https://www.youtube.com/watch?v=pAgW_bZVo88&list=PLLBUgWXdTBDg1Qgmwt4jKtVn9BWh5-zgy))
+  - [Advanced Data Management and Analytics - UGA MIST5730](https://github.com/hanisaf/advanced-data-management-and-analytics)
 - **Probabilistic Graphical Modeling**
   - [MOOC - Probabilistic Graphical Models - Coursera](https://www.youtube.com/playlist?list=PLvfF4UFg6Ejj6SX-ffw-O4--SPbB9P7eP)
   - [CS 6190 - Probabilistic Modeling, Spring 2016, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCpvxdF-Gy3gwaBObx7AnQut)
